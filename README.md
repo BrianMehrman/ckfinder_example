@@ -5,16 +5,16 @@ This sample code is for testing the tool. It is not meant for commecial use. If 
 ## Documentation
 
 The full editor documentation is available online at the following address:
-(http://docs.ckeditor.com)
+http://docs.ckeditor.com
 The documentation for the ckfinder can be found here:
-(http://docs.cksource.com/CKFinder_2.x)
+http://docs.cksource.com/CKFinder_2.x
 
 ## Installation
 
 If you have php enabled on your mac you can easily set this code up to run locally.
 
  1. Clone repo locally.
- 2. Symlink the folder to your /Library/WebServer/Documents directory
+ 2. Symlink the folder to your _/Library/WebServer/Documents_ directory
     sudo ln -s ~/projects/ckfinder/ /Library/WebServer/Documents/ckfinder
 
 The sample pages should be avaliable via http://localhost/ckfinder. Some of the sample code requires the ckeditor be setup on your local machine as well.
